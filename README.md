@@ -1,1 +1,1 @@
-https://wojtekboj.github.io/module_10-10.5/index.html
+Link do Zadania 10.5 https://wojtekboj.github.io/module_10-10.5/index.html
