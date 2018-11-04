@@ -1,4 +1,4 @@
-## An accordion based on jQuery and VanillaJS
+## Accordion based on jQuery and VanillaJS
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Tools](#tools)
@@ -6,7 +6,7 @@
 * [Working Page](#working-page)
 
 ## General info
-An accordion based on jQuery and VanillaJS
+Accordion based on jQuery and VanillaJS
 
 ## Technologies
 Project is created with:
